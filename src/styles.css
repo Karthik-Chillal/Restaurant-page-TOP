@@ -1,3 +1,11 @@
 body{
   background-color: #E0E0E0;
+  background-image: url("./assets/rest-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
 }
